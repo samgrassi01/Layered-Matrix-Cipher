@@ -19,3 +19,6 @@ cipher.
 
 The cipher I implement in this repository implements a couple improvements to the Efficient Integer Vector Homomorphic Encryption
 scheme, specifically with respect to the original ciphers suseptability to known plaintext attacks.
+
+Homomorphic encryption (HE) is an incredibly important, newer form of encryption that I hope will become ubiquitous in the world.
+HE's applications range from health care to safe AI.  Expand on this point furthur.
