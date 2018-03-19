@@ -22,3 +22,5 @@ scheme, specifically with respect to the original ciphers suseptability to known
 
 Homomorphic encryption (HE) is an incredibly important, newer form of encryption that I hope will become ubiquitous in the world.
 HE's applications range from health care to safe AI.  Expand on this point furthur.
+
+added some notes
